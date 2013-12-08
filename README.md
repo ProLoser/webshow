@@ -1,8 +1,8 @@
-MDwiki Seed
+WebShow
 ===========
 
-### A basic file layout template that you can fork to build your own websites or wikis with MDwiki.
+### An open-source written show about the people you know.
 
-#### See <http://mdwiki.info/> for details and documentation.
+#### See <http://ProLoser.github.io/webshow> for plot, outlines, and episode scripts.
 
 
