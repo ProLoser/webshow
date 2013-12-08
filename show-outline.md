@@ -1,8 +1,11 @@
 SHOW OUTLINE
 ==============
 
-Plot
------
+Plot / Synopsis
+-----------------
+The show revolves around the lives of a group of engineers and designers in the web world. 
+  
+  
 *Characters live together?*  
 *Characters don't live togeher but have comically long lunches daily?*  
   
