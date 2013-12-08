@@ -1,6 +1,6 @@
 # WebShow
 
-[Synopsis](about.md)
+[Synopsis](index.md)
 
 [Characters](characters/character-profiles.md)
 
