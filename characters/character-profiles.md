@@ -7,6 +7,13 @@ Start Up Engineer
 -------------------
 Makes a lot of money and never actually goes into the office. Will randomly take a Skype or Google Hangout video conference call. Best friend is Freelance Engineer
   
+Corporate Engineer
+-------------------
+Like the start up engineer, but has limited freedoms  
+Has a dress code  
+Makes just as much or nearly as much as the start up engineer, but has triple the amount of bosses, but more job security.
+  
+  
 Freelance Engineer
 -------------------
 Always broke, complains about not wanting to sell out to corporate America. Always getting job offers from StartUp engineer. Best friend is StartUp Engineer
