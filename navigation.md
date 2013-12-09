@@ -9,3 +9,5 @@
   * [Episode 1](episodes/episode1/summary.md)
   
 [Snippets](randomQuotes.md)
+
+[Edit](https://github.com/ProLoser/webshow)
