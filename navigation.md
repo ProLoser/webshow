@@ -7,3 +7,5 @@
 [Episodes]()
 
   * [Episode 1](episodes/episode1/summary.md)
+  
+[Snippets](randomQuotes.md)
