@@ -11,7 +11,7 @@ Freelance Engineer
 -------------------
 Always broke, complains about not wanting to sell out to corporate America. Always getting job offers from StartUp engineer. Best friend is StartUp Engineer
   
-Pre-Madonna Designer
+Prima Donna Designer
 --------------------
 Always talks in abstract. Feels all of their work is better then Picasso's.  
-*has turrets, randomly pointing out font names?*
+*has Tourette's, randomly pointing out font names?*
