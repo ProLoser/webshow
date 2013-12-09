@@ -3,8 +3,8 @@
 [Synopsis](index.md)
 
 [Characters]()
-	[Main Cast](characters/maincast/index.md)
-	[Guest Cast - soon]()
+	* [Main Cast](characters/maincast/index.md)
+	* [Guest Cast - soon]()
 
 [Episodes]()
 
