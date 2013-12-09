@@ -15,3 +15,8 @@ Prima Donna Designer
 --------------------
 Always talks in abstract. Feels all of their work is better then Picasso's.  
 *has Tourette's, randomly pointing out font names?*
+
+Non-Engineer
+------------
+Works part-time at random odd-jobs.
+Always starts a story or anecdote and never reaches a punchline.
