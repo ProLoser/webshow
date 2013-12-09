@@ -2,7 +2,9 @@
 
 [Synopsis](index.md)
 
-[Characters](characters/character-profiles.md)
+[Characters]()
+	[Main Cast](characters/maincast/index.md)
+	[Guest Cast - soon]()
 
 [Episodes]()
 
