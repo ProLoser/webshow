@@ -38,10 +38,13 @@ Always starts a story or anecdote and never reaches a punchline.
 Other Minor Characters
 =======================  
 Minor Characters will be re-curring characters, but not necessarily in every episode.  
-### Love Interests
+ 
+Love Interests
+--------------
 + Tyler's Family (Wife and Kid)
 + Alyssa's shitty boyfriend
 + Eric's high school sweetheart  
   
-### Other Friends
+Other Friends
+--------------
 + Deuce - a friend that is not in tech, but is the typical partyer. Semi-intelligent, usually meets up with everyone for drinks. Even though he is always looking for his next conquest, he feels hanging out with the mostly geeky friends helps them out by bringing up their social status.
