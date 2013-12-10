@@ -1,19 +1,17 @@
-About the Show
+The WebShow (working title)
 ================
 
-Plot / Synopsis
+Synopsis
 -----------------
-  The WebShow is cenetered around a group of people in the tech world, primarily web-related. They do not work with each other, but each have their own unique way of interpretting the world that they live in.  
-  
-  Each character brings a unique look into their world of tech, and is easily to relate for anyone watching in tech. The show examines how different even just 4 people can interact in the professional tech world.  
+  A freelancer and a start-up engineer meet regularly to bitch about their jobs and common annoyances of the industry. Their circle of friends includes the non-tech, barely-employed part-timer friend and their vain, self-absorbed graphic-designer friend.
   
 
 Show Comparison
 ----------------
-IT Crowd meets Sex and the City. The lives of friends in the tech world, and them bitching about it.
+IT Crowd with a tech-industry focus
 
   
-Setting / Locations
+Locations
 --------------------
 + Work / Office
 + Coffee Shop
@@ -25,14 +23,7 @@ Characters
 [Full List](http://proloser.github.io/webshow/#!characters/index.md)  
   
 ###Main Characters
-+ Carter - Engineer - Works for a startup
-+ Tyler - Engineer - Work for a major corporation
-+ Alyssa - Engineer - Freelance / Consultant
-+ Eva - Designer - Freelance / Consultant
++ Carter - Startup developer
++ Michael - Freelance / Consultant developer
++ Eva - Graphic Designer
 + Eric - Non-Tech Friend
-  
-###Supporting Characters
-+ Tyler's Family
-+ Alyssa's Boyfriend
-+ Eric's Girlfriend
-+ Deuce
