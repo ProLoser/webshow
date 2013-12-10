@@ -1,10 +1,10 @@
 Tyler
 ===================
   
-#Gender#: Male  
-#Age#: 31  
-#Relationship#: Married (2 year old boy)  
-#Position#: Developer (Front End) at Fortune 500 Company  
+*Gender*: Male  
+*Age*: 31  
+*Relationship*: Married (2 year old boy)  
+*Position*: Developer (Front End) at Fortune 500 Company  
 
 
 About
