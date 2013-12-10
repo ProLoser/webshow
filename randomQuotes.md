@@ -51,7 +51,6 @@ __Not asking before hiring__
 * CEO[_pausing to think_]: He uses frontpage to code, you should see his work! It is amazing
 * Dev{_pauses_]: Wait, you are serious? Please tell me you are joking with me right now
 * CEO: No pull up his website: http://mixMasterFlex2001.aol.geocities.com
-* 
 
 __Recruiters__  
 *Premise: Recruiters*
