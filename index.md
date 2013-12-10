@@ -8,8 +8,8 @@ Plot / Synopsis
   Each character brings a unique look into their world of tech, and is easily to relate for anyone watching in tech. The show examines how different even just 4 people can interact in the professional tech world.  
   
 
-Setting / Locations
---------------------
+Current Relateable Shows
+--------------------------
 IT Crowd meets Sex and the City. The lives of friends in the tech world, and them bitching about it.
 
   
