@@ -1,8 +1,7 @@
-Random Quotes we may want to use
+Random snippets we may want to use
 =================================
   
-  
-### Managers giving code advice
+__Managers giving code advice__  
 *Premise: I always get non-coders giving me "tips" for my code.. that make no sense, 'cause they don't know code*  
   
 * Developer: I can implement your request ticket, but maybe difficult because of the time constraints
@@ -12,7 +11,7 @@ Random Quotes we may want to use
 * Dev [_Looking confused_]: That doesn't even make sense?
   
    
-__ Project Manager talking to developer, and giving useless statistics, when developer knows better__
+__ Project Manager talking to developer, and giving useless statistics, when developer knows better__  
 *Premise: pretty self explanatory.. it happens all too often*
   
 * Project Manager: 'I think that all the buttons need to flash colors and maybe move around the screen'  
