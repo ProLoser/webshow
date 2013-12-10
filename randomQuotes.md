@@ -29,12 +29,31 @@ __People referring to things in the most vague way possible, or incorrect termin
 Person: "Please make that title larger"
   
 
-### 1-man Scrums
+__1-man Scrums__  
+*Premise: Non-Tech managers love to find trending ideas/keywords and implement them blindly*
 
 * CEO: Why is the project taking so long?
-* Dev: It's a huge project, what do you expect?
+* Dev: We are week 3 into our 6 month development timeline, what do you expect?
+* Dev: If you hired more developers, it would get done faster.
 * CEO: Why don't you try using SCRUM?
-* Dev: What? Why? That's not going to help.
+* Dev: What? Why? That's not going to help, I am the only person in the web department.
 * CEO: Lots of big successful companies use SCRUM, you should use that!
-* Dev: Look, I can have a 15 minute meeting by myself every morning if that's what you want, but it really isn't going to make me code any faster.
->>>>>>> 2c93f9ee8f62a438b417828ee8a23681787d6202
+* Dev[_Looks around completely empty office_]: Look, I can have a 15 minute meeting by myself every morning if that's what you want, but it really isn't going to make me code any faster.
+
+
+__Not asking before hiring__  
+*Premise: Non-Tech managers really don't know how to hire*
+
+* CEO: I hired you someone to help you work faster, although I don't see why you needed him
+* Dev: I am not going into this again... but thank you, what is his background?
+* CEO: Yea, he has a lot of experience!
+* Dev: Great, is he a front end developer or backend developer?
+* CEO[_pausing to think_]: He uses frontpage to code, you should see his work! It is amazing
+* Dev{_pauses_]: Wait, you are serious? Please tell me you are joking with me right now
+* CEO: No pull up his website: http://mixMasterFlex2001.aol.geocities.com
+* 
+
+__Recruiters__  
+*Premise: Recruiters*
+  
+* No real script here yet.. but thinking while everyone is together one by one they all get a phone call from the same recruiter offering the same exact job.
