@@ -1,10 +1,10 @@
 Carter
 ======
   
-#Gender#: Male  
-#Age#: 26  
-#Relationship#: *Single and looking*  
-#Position#: Developer (Full Stack) at Start Up  
+*Gender*: Male  
+*Age*: 26  
+*Relationship*: *Single and looking*  
+*Position*: Developer (Full Stack) at Start Up  
 
 About
 ------
