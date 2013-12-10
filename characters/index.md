@@ -1,5 +1,5 @@
-DEFAULT CHARACTERS
-===================
+MAIN CAST
+==========
   
 The show will have a core ensemble for every episode, with possible reocurring guest and secondary characters.
 
@@ -33,3 +33,11 @@ Non-Tech Related Friend
 *Name: [Eric](maincast/Eric.md)*  
 Works part-time at random odd-jobs.  
 Always starts a story or anecdote and never reaches a punchline.
+  
+  
+Other Minor Characters
+=======================  
+Minor Characters will be re-curring characters, but not necessarily in every episode.  
++ Tyler's Family (Wife and Kid)
++ Alyssa's shitty boyfriend
++ Eric's high school sweetheart
