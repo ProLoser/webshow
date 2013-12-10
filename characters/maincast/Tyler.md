@@ -13,9 +13,11 @@ Hello my name is Tyler, lets see... umm.. I work at a major company (you have pr
 
 Likes
 ------
-+ SciFi
-+ Video Games (PC Gamer)
++ Ikea furniture hacking projects
++ Posting shots of Ikea projects on instagram
++ Beer aficionado 
   
 DisLikes
 ---------
-+ 
++ Fondue
++ His wife's Tiramisu
