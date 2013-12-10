@@ -12,4 +12,4 @@
   
 [Snippets](randomQuotes.md)
 
-[Edit](https://github.com/ProLoser/webshow)
+[gimmick:editMe](https://github.com/ProLoser/webshow/edit/gh-pages/)

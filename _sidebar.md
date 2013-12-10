@@ -1,3 +1,0 @@
-### Navigation
-
-[[_TOC_]]
