@@ -17,6 +17,7 @@ Locations
 + Coffee Shop
 + Bar
 + Apartment 
++ Conference/Meetups
 
 Characters
 --------------------
