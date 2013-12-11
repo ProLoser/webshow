@@ -55,3 +55,14 @@ __Recruiters__
 *Premise: Recruiters*
   
 * No real script here yet.. but thinking while everyone is together one by one they all get a phone call from the same recruiter offering the same exact job.
+
+
+__Interview Questions__
+*Premise: Stupid "meta" interview questions*
+
+* Google has interview questions like "If you were shrunk to 1/100th of your normal size and mass and placed into a blender, how would you get out?
+* We could come up with assinine abstract questions and then have the interviewers scribble down completely unrelated conclusions
+* Interviewer: What does the color blue smell like?
+* Candidate: What? Umm.... probably like grapes? Sweet and tangy.
+* [Interviewer gives questionable glares]
+* [Interviewer scribbles on notepad: "Doesn't work well with teams of 2 or more"]
