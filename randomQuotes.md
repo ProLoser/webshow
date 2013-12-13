@@ -10,8 +10,12 @@ __Managers giving code advice__
 * PM [_Interrupting_]: How about CSS jQuery?
 * Dev [_Looking confused_]: That doesn't even make sense?
   
+  
+*Part II*  
+* I want to see a HR video (like a safety video) about bad practices in code, however they have no idea what they are doing, so its basically a bunch of sinppets from movies including Office Space, Matrix, and others. As well as random screenshots and people in the office using Microsoft Word (to "code").
+  
    
-__ Project Manager talking to developer, and giving useless statistics, when developer knows better__  
+__Project Manager talking to developer, and giving useless statistics, when developer knows better__  
 *Premise: pretty self explanatory.. it happens all too often*
   
 * Project Manager: 'I think that all the buttons need to flash colors and maybe move around the screen'  
@@ -25,7 +29,7 @@ __People referring to things in the most vague way possible, or incorrect termin
 *Premise: People are irritating when they don't specify things they are talking about*
   
 *Preosn pointing at monitor and moving arm in a circular motion*
-Person: "Please make that title larger"
+Person: "Please make that one title on the page with that one picture, larger"
   
 
 __1-man Scrums__  
@@ -57,7 +61,7 @@ __Recruiters__
 * No real script here yet.. but thinking while everyone is together one by one they all get a phone call from the same recruiter offering the same exact job.
 
 
-__Interview Questions__
+__Interview Questions__  
 *Premise: Stupid "meta" interview questions*
 
 * Google has interview questions like "If you were shrunk to 1/100th of your normal size and mass and placed into a blender, how would you get out?
@@ -65,4 +69,14 @@ __Interview Questions__
 * Interviewer: What does the color blue smell like?
 * Candidate: What? Umm.... probably like grapes? Sweet and tangy.
 * [Interviewer gives questionable glares]
-* [Interviewer scribbles on notepad: "Doesn't work well with teams of 2 or more"]
+* [Interviewer scribbles on notepad: "Doesn't work well with teams of 2 or more"]  
+  
+  
+__How We Started__  
+*Premise: Most developers started fascinated by the same things*
+  
+* Dev1: Flash, I hate it.. but got to admit, it got me into developing
+* Dev2: What a los...wait, no you are right, I wanted to create the coolest website with flash.
+* Dev1: Remember ActionScript 1?
+* Dev2: Yes, I tried to get into it more, but ended up picking up HTML and not wanting to mess too much with heavy flash development
+* Dev1: I made a ball bounce once. Love me some motion tweeeeen.
