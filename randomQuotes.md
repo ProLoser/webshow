@@ -79,4 +79,19 @@ __How We Started__
 * Dev2: What a los...wait, no you are right, I wanted to create the coolest website with flash.
 * Dev1: Remember ActionScript 1?
 * Dev2: Yes, I tried to get into it more, but ended up picking up HTML and not wanting to mess too much with heavy flash development
-* Dev1: I made a ball bounce once. Love me some motion tweeeeen.
+* Dev1: I made a ball bounce once. Love me some motion tweeeeen.  
+  
+__Changing Tasks without consulting / Scope Creep?__  
+*Premise: By the time you start/complete a task, the task basis may have changed at least 3 times*  
+  
+* Dev [talking to himself]: Finally can get to this task.. hmm.. style the table [starts coding task]
+* PM [in meeting]: I don't like the table either! I was thinking for better UXI we need to offer a more robust color palette
+* Dev [still coding]
+* [2 hours pass]
+* Dev: Okay, finally finished
+* PM: Finished what?
+* Dev: The task to style the table.
+* PM: Really? That was fast, we just finished designing it.
+* Dev: Uh, What?
+* PM: Yea the design team and I sat down with photoshop and made it better U.X.I.P Synergy
+* Dev Shoots himself in the FACE!
