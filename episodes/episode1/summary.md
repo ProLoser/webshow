@@ -1,6 +1,9 @@
-Episode 1
+Episode 1 - I quit
 ==========
 
 Synopsis
 --------
-This is the first episode where we will introduce each character and what they do.
+Carter quits his job and moves to San Francisco 
+
+Conflict
+--------
