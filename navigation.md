@@ -4,7 +4,13 @@
 
 [Characters]()
 
-  * [Main Cast](characters/index.md)
+  * Main Cast
+  * [Carter](characters/Carter.md)
+  * [Tyler](characters/Tyler.md)
+  * [Mike](characters/Mike.md)
+  * [Eva](characters/Eva.md)
+  * Additional Cast
+  * [Sundeep](characters/?.md)
 
 [Episodes]()
 
