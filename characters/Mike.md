@@ -8,7 +8,10 @@ Mike
 
 About
 ------
-Always dating different girls
+Always dating different girls.
+
+Works part-time at random odd-jobs.  
+Always starts a story or anecdote and never reaches a punchline.
  
 Traits
 ------  
