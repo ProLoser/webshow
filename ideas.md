@@ -1,4 +1,4 @@
-Random snippets we may want to use
+Random joke ideas
 =================================
   
 __Managers giving code advice__  
@@ -14,6 +14,7 @@ __Managers giving code advice__
 *Part II*  
 * I want to see a HR video (like a safety video) about bad practices in code, however they have no idea what they are doing, so its basically a bunch of sinppets from movies including Office Space, Matrix, and others. As well as random screenshots and people in the office using Microsoft Word (to "code").
   
+------
    
 __Project Manager talking to developer, and giving useless statistics, when developer knows better__  
 *Premise: pretty self explanatory.. it happens all too often*
@@ -24,13 +25,16 @@ __Project Manager talking to developer, and giving useless statistics, when deve
 * Dev: 'I can't tell if you are joking or not...'  
 * PM: 'The data does not lie friend'
   
-  
+
+------
+
 __People referring to things in the most vague way possible, or incorrect terminology__  
 *Premise: People are irritating when they don't specify things they are talking about*
   
 *Preosn pointing at monitor and moving arm in a circular motion*
 Person: "Please make that one title on the page with that one picture, larger"
   
+------
 
 __1-man Scrums__  
 *Premise: Non-Tech managers love to find trending ideas/keywords and implement them blindly*
@@ -43,6 +47,7 @@ __1-man Scrums__
 * CEO: Lots of big successful companies use SCRUM, you should use that!
 * Dev[_Looks around completely empty office_]: Look, I can have a 15 minute meeting by myself every morning if that's what you want, but it really isn't going to make me code any faster.
 
+------
 
 __Not asking before hiring__  
 *Premise: Non-Tech managers really don't know how to hire*
@@ -54,6 +59,8 @@ __Not asking before hiring__
 * CEO[_pausing to think_]: He uses frontpage to code, you should see his work! It is amazing
 * Dev{_pauses_]: Wait, you are serious? Please tell me you are joking with me right now
 * CEO: No pull up his website: http://mixMasterFlex2001.aol.geocities.com
+
+------
 
 __Recruiters__  
 *Premise: Recruiters*
@@ -70,6 +77,9 @@ __Interview Questions__
 * Candidate: What? Umm.... probably like grapes? Sweet and tangy.
 * [Interviewer gives questionable glares]
 * [Interviewer scribbles on notepad: "Doesn't work well with teams of 2 or more"]  
+
+
+-----
   
   
 __How We Started__  
@@ -81,6 +91,8 @@ __How We Started__
 * Dev2: Yes, I tried to get into it more, but ended up picking up HTML and not wanting to mess too much with heavy flash development
 * Dev1: I made a ball bounce once. Love me some motion tweeeeen.  
   
+------
+
 __Changing Tasks without consulting / Scope Creep?__  
 *Premise: By the time you start/complete a task, the task basis may have changed at least 3 times*  
   
@@ -95,3 +107,16 @@ __Changing Tasks without consulting / Scope Creep?__
 * Dev: Uh, What?
 * PM: Yea the design team and I sat down with photoshop and made it better U.X.I.P Synergy
 * Dev Shoots himself in the FACE!
+
+------
+
+Series of closeup shots similar to the opening of Batman and Robin except for hipsters
+
+* rolls up button-down-front t-shirt sleeves
+* rolls up pants cuffs
+* ties bow tie and scarf
+* waxes mustache
+
+Neck-beard (Steve Wozniak) walks past with pocket protecter and belt clip phone holster
+
+* Hipster: What a wanabe hipster. Does he even apple? I bet he's an Android fanboy.
