@@ -4,12 +4,12 @@
 
 [Characters]()
 
-  * Main Cast
+  * <span class="dropdown-header">Main Cast</span>
   * [Carter](characters/Carter.md)
   * [Tyler](characters/Tyler.md)
   * [Mike](characters/Mike.md)
   * [Eva](characters/Eva.md)
-  * Additional Cast
+  * <span class="dropdown-header">Additional Cast</span>
   * [Sundeep](characters/?.md)
 
 [Episodes]()
