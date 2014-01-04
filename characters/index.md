@@ -23,7 +23,7 @@ Always talks in abstract. Feels all of their work is better then Picasso's.
 
 Non-Tech Related Friend
 -------------------------
-*Name: [Eric](Eric.md)*  
+*Name: [Mike](Mike.md)*  
 Works part-time at random odd-jobs.  
 Always starts a story or anecdote and never reaches a punchline.
   
