@@ -20,15 +20,15 @@ Acts
 
 ### Act 1 - Carter quits his current job
 
-Scene - Carter, Mike and Tyler are grabbing a bite as Carter shares his news / revelation 
+Scene - Carter, Mike and Tyler are grabbing a bite (at mongorrrian?) as Carter shares his news / revelation 
 
 ### Act 2 - Carter moves to SF
 
-Scene - Carter and stranger riding in car together
+Scene - Carter and stranger riding in car together. She smells, is a shitty driver, and sleeps most of the trip.
 
 ### Act 3 - Carter finds a roommate and a new job
 
-Scene - Carter unpacking and getting to know roommate
+Scene - Carter unpacking and getting to know new european roommate. Roommate turns out to have strange european habits. He is a startup founder and is constantly pitching his crappy ideas to friends and potential investors. He's rarely ever home and has disgusting bathing, cooking and cleaning habits.
 
 
 Ideas
