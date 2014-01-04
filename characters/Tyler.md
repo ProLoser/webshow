@@ -5,25 +5,26 @@ Tyler
 *Age*: 27  
 *Relationship*: Dating  
 *Position*: Freelance Developer
+*Personality*: Easy Going
   
 About
 ------
-Hello ladies, my name is Tyler. You are welcome.  
+Hipster  
+Always broke, complains about not wanting to sell out to corporate America. Always getting job offers from StartUp engineer. Best friend is StartUp Engineer
  
-I have my own consulting business where I build websites for people and companies. Not a big deal, but I do work with some pretty awesome clients, a few you have probably heard of, their managers. My awesome company allows me to make my own hours, so I am always available to listen. 
+Freelance consultant (previously partnered with Carter) who builds websites for individuals and companies.
  
 Traits
 ------  
 + Easy Going & Laid Back
 + Hates to admit that he barely makes enough money to cover life expenses & refuses to change lifestyle to match actual income
-+ Even though a simple consultant, talks about it as though its a large scale company (which ironically he would never work for)
++ Even though a simple consultant, talks about it as though its a large scale company (which ironically he would never work for). Uses royal 'we' and 'the company' as third-person reference to himself in professional manner.
   
 Likes
 ------
-+ Trying new restaurants and types of foods
-+ Video Games (Console Gamer - PlayStation)
-+ Going to certain meetups
-+ Challenges
++ Foodie
++ Gamer
++ Dating
   
 DisLikes
 ---------
