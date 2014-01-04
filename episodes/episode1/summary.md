@@ -12,7 +12,7 @@ What drives Carter to quit? He is sick of dumb freelance clients (partnered with
 Why move to SF? Because SF is techy-mecca, where he must make pilgrimage
 How does he get there? Shitty zimride carpool
 
-=======
+--------
 
 ### Act 1 - Carter quits his current job
 
@@ -26,7 +26,7 @@ Scene - Carter and stranger riding in car together
 
 Scene - Carter unpacking and getting to know roommate
 
-========
+--------
 
 Idea:
 
