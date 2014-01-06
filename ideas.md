@@ -126,6 +126,18 @@ Neck-beard (Steve Wozniak) walks past with pocket protecter and belt clip phone 
 Tyler is dillusional that "The Company" exists and that Carter and Eva are part of it.
   
 Talks like he has "an office" when its really just him at a cafe.
+
+---------
+
+Commercial breaks are all commercials from jokes in the show:
+* "The Company" owned by Tyler
+* Company that Carter interviews at
+* Any of Mike's jobs
+* Mongolian Restaurant
+
+----------
+  
+Mike hates customers - use stupid customer references
   
   
 Ongoing Jokes
