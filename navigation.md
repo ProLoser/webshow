@@ -16,6 +16,6 @@
 
   * [Episode 1](episodes/episode1/summary.md)
   
-[Snippets](randomQuotes.md)
+[Ideas](ideas.md)
 
 [gimmick:editMe](https://github.com/ProLoser/webshow/edit/gh-pages/)
