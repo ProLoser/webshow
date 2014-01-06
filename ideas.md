@@ -121,7 +121,15 @@ Neck-beard (Steve Wozniak) walks past with pocket protecter and belt clip phone 
 
 * Hipster: What a wanabe hipster. Does he even apple? I bet he's an Android fanboy.
 
+-------
+
+Tyler is dillusional that "The Company" exists and that Carter and Eva are part of it.
+  
+Talks like he has "an office" when its really just him at a cafe.
+  
   
 Ongoing Jokes
 =================================
 * All Carter's AirBnB roommates are weird, show up in random episodes/scenes
+* Mike always has a new random odd-job (stock boy, waiter/host, test subject, valet, fast-food, tech jobs (tricks Tyler & Carter into helping him do most of the work))
+* 

@@ -15,7 +15,8 @@ Works part-time at random odd-jobs.
 Always starts a story or anecdote and never reaches a punchline.
   
 Not motivated or driven to succceed financially
-
+  
+Thinks he is a tech guy 'cause he lives with and is friends with tech guys. Convinces them to do 90% of his work when he works for tech related companies
  
 Traits
 ------  
