@@ -4,7 +4,8 @@ Mike
 *Gender*: Male  
 *Age*: 24  
 *Relationship*: Celibate  
-*Position*: Store manager at electronics store
+*Position*: Store manager at electronics store  
+*Roommate*: Tyler
 
 About
 ------
@@ -12,6 +13,9 @@ Always dating different girls.
 
 Works part-time at random odd-jobs.  
 Always starts a story or anecdote and never reaches a punchline.
+  
+Not motivated or driven to succceed financially
+
  
 Traits
 ------  

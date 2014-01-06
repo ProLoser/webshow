@@ -6,6 +6,7 @@ Tyler
 *Relationship*: Dating  
 *Position*: Freelance Developer
 *Personality*: Easy Going
+*Roommate*: Mike
   
 About
 ------

@@ -5,7 +5,8 @@ Carter
 *Age*: 26  
 *Relationship*: *Single and Desperate*  
 *Position*: Developer at Start Up  
-*Personality*: Deadpan
+*Personality*: Deadpan  
+*Roommate*: AirBnB
 
 About
 ------
@@ -13,7 +14,8 @@ Works for an awesome start. On the cutting edge of technologies. While not at wo
  
 Makes a lot of money and never actually goes into the office. Will randomly take a Skype or Google Hangout video conference call. Best friend is Freelance Engineer
  
-  
+Moves to SF, moves into a 2 bedroom apartment and AirBnB's the other room.
+    
 Likes
 ------
 + Food

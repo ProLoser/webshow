@@ -120,3 +120,8 @@ Series of closeup shots similar to the opening of Batman and Robin except for hi
 Neck-beard (Steve Wozniak) walks past with pocket protecter and belt clip phone holster
 
 * Hipster: What a wanabe hipster. Does he even apple? I bet he's an Android fanboy.
+
+  
+Ongoing Jokes
+=================================
+* All Carter's AirBnB roommates are weird, show up in random episodes/scenes
