@@ -145,6 +145,17 @@ Commercial breaks are all commercials from jokes in the show:
 ----------
   
 Mike hates customers - use stupid customer references
+
+
+-----------
+
+Company interview shows that company employees have no idea what company actually does
+
+* Employees show charts and list acheivements
+* Look at these awesome perks
+* Look at these millions of dollars in funding raised
+* CEO is super ellusive and never around
+* Charts of hockey-stick growth with no labels
   
   
 Ongoing Jokes
@@ -152,3 +163,6 @@ Ongoing Jokes
 * All Carter's AirBnB roommates are weird, show up in random episodes/scenes
 * Mike always has a new random odd-job (stock boy, waiter/host, test subject, valet, fast-food, tech jobs (tricks Tyler & Carter into helping him do most of the work))
 * 
+
+
+
