@@ -23,6 +23,7 @@ Traits
 + Horrible, but adament storyteller
 + Knows a lot of random facts
 + Will show up to any event invited to, and find a way to not pay as much as everyone else
++ Despite being broke, owns ridiculously expensive mint condition fixxy bike
 
   
 Likes
