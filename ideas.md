@@ -79,6 +79,13 @@ __Interview Questions__
 * [Interviewer scribbles on notepad: "Doesn't work well with teams of 2 or more"]  
 
 
+
+
+*Unbelievably vague question*
+* Interviewer: You have a black box that doesn't work, how do you test it?
+* Interviewer: How do you fix the world? 
+* Interviewer: What are alternate uses of a traffic cone
+
 -----
   
   
