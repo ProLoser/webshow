@@ -157,6 +157,14 @@ Company interview shows that company employees have no idea what company actuall
 * CEO is super ellusive and never around
 * Charts of hockey-stick growth with no labels
   
+-----------
+
+Carter is on Google campus, looking for the correct office. He observes the assorted bycicles and "conference" bycicle available for free use on the campus (5 seats facing into the center). He stops and asks someone for directions, who points him across to the other side of the campus, and recommends he takes a bike. Carter looks around and notices all the normal bikes are taken and the only one still available is the 'conference' bycicle.
+
+_cut to:_
+
+Carter peddling the 5-seater bycicle by himself arriving at the office with a hobo asleep on one of the seats.
+
   
 Ongoing Jokes
 =================================
