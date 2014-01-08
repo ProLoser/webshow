@@ -165,6 +165,16 @@ _cut to:_
 
 Carter peddling the 5-seater bycicle by himself arriving at the office with a hobo asleep on one of the seats.
 
+
+-----------
+
+"Drop the 'The'"
+
+Halfway through the season, tyler comes rushing up or really excited to carter
+
+* Tyler: Dude, I was talking with this genius angel investor, and he gave me the best suggestion for The Company's future ever!
+* Carter: You're still meeting with that guy? what's the genius idea now?
+* Tyler: "The Company" decided to drop the "The".  Now we're just... "Company".
   
 Ongoing Jokes
 =================================
