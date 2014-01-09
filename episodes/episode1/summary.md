@@ -46,6 +46,58 @@ Scene 2.2 - Tyler and Mike helping him move into new apartment
 Scene 3.1 - Reflection back at the restaurant
 
 * Like Kyle's end to South Park, except the point they learned is useless
+ 
+
+Beats
+-----
+
+
+Act 1
+
+INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
+
+Carter sits down at conference table and 3 employees ask him to tell them about himself
+
+INT. TYLER AND MIKES APARTMENT - DAY
+
+Tyler and Mike are playing xbox on the couch. They discuss the plans for the day to meet with Carter.
+
+TYLER: "Carter's in town interviewing, we'll probably grab a bite with him. I think he wants to move up here"
+
+INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
+
+Carter begins explaining brief backstory
+
+INT. TYLER AND MIKES APARTMENT - DAY
+
+Mike asks Tyler where he's interviewing. Tyler lists several random company names.
+
+INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
+
+Employees poorly describe their company and benefits without explaining what company _actually_ does. Carter keeps asking but doesn't really get an answer.
+
+INT. TYLER AND MIKES APARTMENT - DAY
+
+Mike asks if tech companies really do ask stupid meta questions like Google's "how would you get out of a blender". Tyler responds that he only went on interviews to get ideas for The Company(tm)
+
+INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
+
+Employees ask Carter completely useless questions. Possibly done as a series of quick cuts.
+[what does blue taste like]
+[what's your favorite monotype font]
+[what's your favorite shade of gray]
+
+{do interview through lunch?}
+
+INT. RESTAURANT - NIGHT
+
+
+
+
+
+
+
+
   
 
 
