@@ -50,13 +50,16 @@ Scene 3.1 - Reflection back at the restaurant
 
 Beats
 -----
+[..] = joke idea  
+{..} = not a joke, idea
 
+### Act 1
 
-Act 1
 
 INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
 Carter sits down at conference table and 3 employees ask him to tell them about himself
+
 
 INT. TYLER AND MIKES APARTMENT - DAY
 
@@ -64,21 +67,26 @@ Tyler and Mike are playing xbox on the couch. They discuss the plans for the day
 
 TYLER: "Carter's in town interviewing, we'll probably grab a bite with him. I think he wants to move up here"
 
+
 INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
 Carter begins explaining brief backstory
+
 
 INT. TYLER AND MIKES APARTMENT - DAY
 
 Mike asks Tyler where he's interviewing. Tyler lists several random company names.
 
+
 INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
 Employees poorly describe their company and benefits without explaining what company _actually_ does. Carter keeps asking but doesn't really get an answer.
 
+
 INT. TYLER AND MIKES APARTMENT - DAY
 
 Mike asks if tech companies really do ask stupid meta questions like Google's "how would you get out of a blender". Tyler responds that he only went on interviews to get ideas for The Company(tm)
+
 
 INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
@@ -89,19 +97,58 @@ Employees ask Carter completely useless questions. Possibly done as a series of 
 
 {do interview through lunch?}
 
+
+INT. TYLER AND MIKES APARTMENT - DAY
+
+{video game joke.. Mike Dies.. he is a sore loser}
+[fucked up BF - convoluted death with unrealstic game physics]
+[Mike teabags Tyler's FACE]
+[Cut to 2 13 year olds talking shit as they kick Mike & Tylers ass]
+[Takes trash talking literally, and responds seriously]
+
+
 INT. RESTAURANT - NIGHT
 
+Carter, Tyler, and Mike discuss Carter using Zimride to move to SF
+[talking about the potential for hot awesome chick being Zimrider... it isn't]
+
+### ACT 2
+
+INT. CARTERS CAR DRIVING ON HIGHWAY - DAY
+
+[background footage B&W @ 1.5x and out of sync with Carter steering - if possible mayhem in background]
+
+
+EXT. GG BRIDGE AS CARTER DRIVES OVER IT - DAY  
+
+milked useless long scenic shot of bridge with no dialogue  
+
+PASSENGER: _looking around confused_ I didn't know the Golden Gate Bridge was on the way from LA?  
+[CARTER: What are you talking about?]
+[How else would they know we are in San Francisco?]
 
 
 
+INT. CARTERS APARTMENT - DAY
+
+Tyler, Mike, and Carter are moving boxes  
+[Mike is "managing"]
+
+Sitting around boxes eating pizza and drinking beer  
+{talking about potential roommates}
+[Mike posting ad for roommate on craigslist - its horrible]
+CARTER: Dude, seriously? No one will want to move in  
+[Mike shushes Carter with finger on lips]  
+MIKE: Trust me.
+
+Seconds after ad is posted
+
+[Lots of weird people waiting outside - EXT SHOT]
+[SMS counts sky rockets seconds after ad posted]
+
+### ACT 3
 
 
+INT - RESTAURANT - NIGHT
 
 
-  
-
-
-Ideas
------
-
-He finds a job working for example.com, which everyone thought to be fictitious.
