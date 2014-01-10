@@ -180,7 +180,7 @@ Ongoing Jokes
 =================================
 * All Carter's AirBnB roommates are weird, show up in random episodes/scenes
 * Mike always has a new random odd-job (stock boy, waiter/host, test subject, valet, fast-food, tech jobs (tricks Tyler & Carter into helping him do most of the work))
-* 
+* All shit / rage talk on Video Games taken seriously / sarcastically
 
 
 
