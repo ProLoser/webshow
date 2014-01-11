@@ -1,17 +1,9 @@
 Episode 1 - I quit
 ==========
 
-
 Synopsis
 --------
-Carter decides to quit his job at "The Company" after dealing with 1 too many stupid clients. Gets a high paying position at a start up in San Francisco, where Tyler, Mike, and Eva live. 
-  
-
-Conflict
---------
-
-What drives Carter to quit?  
-He is sick of dumb freelance clients (partnered with Tyler and Eva) and wants a salary. His frustration at stupid clients builds up to the point of pushing him working in the 'tech-mecca'. 
+Carter quit his job at "The Company" (freelancing with Tyler) after dealing with too many stupid clients. Gets a high paying position at a start up in San Francisco (Tech-Mecca), where Tyler, Mike, and Eva live.
 
 Acts
 ----
