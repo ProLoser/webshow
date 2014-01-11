@@ -3,12 +3,14 @@ Episode 1 - I quit
 
 Synopsis
 --------
+
 Carter quit his job at "The Company" (freelancing with Tyler) after dealing with too many stupid clients. Gets a high paying position at a start up in San Francisco (Tech-Mecca), where Tyler, Mike, and Eva live.
 
-Acts
-----
 
-### Act 1 - Carter visits SF
+
+
+Act 1 - Carter visits SF
+------------------------
   
 Scene 1.1 - Carter enters interview room to panel(?) __Intro of Carter__
 
@@ -189,7 +191,8 @@ CARTER: WHAT? I didn't even get a chance to
 CUT SCENE
 
 
-### ACT 2
+ACT 2
+-----
 
 INT. CARTERS CAR DRIVING ON HIGHWAY - DAY
 
@@ -223,7 +226,8 @@ Seconds after ad is posted
 [Lots of weird people waiting outside - EXT SHOT]
 [SMS counts sky rockets seconds after ad posted]
 
-### ACT 3
+ACT 3
+-----
 
 
 INT - RESTAURANT - NIGHT
