@@ -183,4 +183,6 @@ Ongoing Jokes
 * All shit / rage talk on Video Games taken seriously / sarcastically
 
 
+Every time the guys are at mongolian, they always make a point to order all-you-can-eat. Any time they are having a conversation that involves a cut-away gag or a cut-to whatever they are talking about, every time the cut returns to them talking, they're in line for another refill of food.
+
 
