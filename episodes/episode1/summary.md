@@ -60,45 +60,104 @@ INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
 Carter sits down at conference table and 3 employees ask him to tell them about himself
 
+BILL (interviewer): Welcome to WidgetCoBuilders.com why don't you tell us about yourself?
+
 
 INT. TYLER AND MIKES APARTMENT - DAY
 
-Tyler and Mike are playing xbox on the couch. They discuss the plans for the day to meet with Carter.
+Tyler and Mike are playing Xbox on the couch. They discuss the plans for the day to meet with Carter.
 
-TYLER: "Carter's in town interviewing, we'll probably grab a bite with him. I think he wants to move up here"
+MIKE: So.. Carter is here in San Francisco, eh? Does that mean I have to put on pants today?  
+TYLER: Yes he is interviewing at a few startups  
+MIKE: Pants Optional?  
+TYLER: (ignoring Mike) We'll grab dinner with him.  
+MIKE: (grumbling) Where are we going for dinner? I feel like MOOSHOO Pork
 
 
 INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
 
 Carter begins explaining brief backstory
 
+CARTER: I currently live in Los Angeles and work consulting full time with my friend Tyler. He feels (air quotes) "The Company" is going to take off, but it is mostly dillusional.  
+BILL: Oh interesting, LA, know any celebrities?  
+CARTER: (annoyingly) No, haven't had the chance to meet any, but I have been coding for over 10 years  
+BILL: I use Dreamweaver too  
+
 
 INT. TYLER AND MIKES APARTMENT - DAY
 
-Mike asks Tyler where he's interviewing. Tyler lists several random company names.
+Mike sniffs a pair of pants, shrugs, and puts them on  
+
+MIKE: Where is he interviewing anyway? Google? Facebook?  
+TYLER: Umm.. I think WidgetCo?
 
 
-INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
+CUT TO - INT. WIDGETCO COMPANY CONFERENCE ROOM - DAY
 
 Employees poorly describe their company and benefits without explaining what company _actually_ does. Carter keeps asking but doesn't really get an answer.
 
-
-INT. TYLER AND MIKES APARTMENT - DAY
-
-Mike asks if tech companies really do ask stupid meta questions like Google's "how would you get out of a blender". Tyler responds that he only went on interviews to get ideas for The Company(tm)
-
-
-INT. NONDESCRIPT TECH COMPANY CONFERENCE ROOM - DAY
-
-Employees ask Carter completely useless questions. Possibly done as a series of quick cuts.
-[what does blue taste like]
-[what's your favorite monotype font]
-[what's your favorite shade of gray]
-
-{do interview through lunch?}
+BILL: Let me introduce our lead designer, Angel  
+Angel sits down, looks over Carter's resume
+Angel: So, what is your favorite shade of light gray?  
+CARTER: Uhh..  
+Angel: Please respond in hexidecimal, RGB is also not acceptable  
 
 
-INT. TYLER AND MIKES APARTMENT - DAY
+CUT TO - INT. TYLER AND MIKES APARTMENT - DAY
+
+TYLER: Then he goes to FreeWebsites4U.com  
+
+
+CUT TO - INT. FREEWEBSITE4U.COM'S COMPANY CONFERENCE ROOM - DAY
+
+INTERVIEWER: We want to give you a little code test, code a fully functional website for Dr. Smith. You can find all the files you need on this flash drive, including images, and content  
+CARTER: How long do I have?  
+INTERVIEWER: 1 hour  
+CARTER: Wait, am I just doing your work for you?  
+INTERVIEWR: Staring now...
+
+
+CUT TO - INT. TYLER AND MIKES APARTMENT - DAY
+
+TYLER: I think his last interview is at Synergy HTTP Interval Technologies  
+MIKE: SHIT?
+
+
+CUT TO - INT. SYNERGY HTTP INTERVAL TECHNOLOGIES CONFERENCE ROOM - DAY
+
+CARTER: So what do you guys do?  
+
+Interviewer pulls up chart on PowerPoint
+
+INTERVIEWER: As you can see from our growth chart we are experiencing tremendous growth  
+CARTER: So what do you guys do?  
+
+Slide changes to cover of Outsourced Monthly
+
+INTERVIEWER: We were voted in the top 10 companies to watch by Outsourced Monthly  
+CARTER: So what do you guys do?  
+
+Slide changes to stock photo of happy family
+
+INTERVIEWR: We make dreams come true, we help individuals succeed  
+CARTER: So what do you guys do?  
+
+Slide changes back to chart
+
+INTERVIEWER: We are backed by Steve Wozniak's cousin, we raised over 4 million dollars in our first round of funding, and are set to raise another 125 million by the end of the year. 
+
+Quad Copter smacks into window
+Pan to employees playing with toys in background while interviewr continues
+
+INTERVIEWR: We offer great benefits, full medical, dental, vision, 401K. Each employee also receives a $500 stipened to spend at Toys R' Us. Don't worry about coming into the office, no one is ever really here
+
+Pans back to outside, everyone is gone.
+
+CARTER: Do you guys evenn know what you do?  
+INTERVIEWER: That is the kind of critical thinking we like, you're hired! Here is a new Macbook Pro and iPad, welcome aboard!
+
+
+CUT TO INT. TYLER AND MIKES APARTMENT - DAY
 
 {video game joke.. Mike Dies.. he is a sore loser}
 [fucked up BF - convoluted death with unrealstic game physics]
@@ -107,10 +166,36 @@ INT. TYLER AND MIKES APARTMENT - DAY
 [Takes trash talking literally, and responds seriously]
 
 
-INT. RESTAURANT - NIGHT
+CUT TO INT. RESTAURANT - NIGHT
 
 Carter, Tyler, and Mike discuss Carter using Zimride to move to SF
 [talking about the potential for hot awesome chick being Zimrider... it isn't]
+
+CARTER: So looks like I'll be moving up this weekend, don't quite know how I will tell my mom.  
+TYLER: Don't worry Carter, I'll take care of her    
+MIKE: [joke]
+CARTER: I really don't want to do the drive by myself, one of you want to come with?  
+MIKE: I can't, I am super busy  
+TYLER: Doing what? You barely put on pants today  
+CARTER: How about you Tyler?  
+TYLER: I would, __THE COMPANY__ is having a retreat  
+CARTER: With all the employees you don't have?  
+MIKE: Chairman of Awesome, M.D.  
+CARTER: Have you two ever heard of Zimride?  
+TYLER: Yes, that is that the hitchiker rapists app directory? where you can get a hot girl in your car  
+MIKE: How much does she charge?  
+TYLER: And give them a ride along wherever you are going  
+CARTER: Yes, but I'm not sure its exclusive to hot girls  
+MIKE: Count me out  
+TYLER: But what if it was? You could join the not a mile high, club  
+CARTER: Would be nice to have some actual scenery  
+TYLER: Yea, check this out, blonde girl aged 25 going from LA to SF this weekend! 
+MIKE: How much does she charge?  
+TYLER: aaaaaand message sent  
+CARTER: WHAT? I didn't even get a chance to
+
+CUT SCENE
+
 
 ### ACT 2
 
